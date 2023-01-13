@@ -1,0 +1,772 @@
+{
+  "data": [
+    {
+      "country": "Global / US ",
+      "search_domain": "google.com"
+    },
+    {
+      "country": "Afghanistan ",
+      "search_domain": "google.com.af"
+    },
+    {
+      "country": "Albania ",
+      "search_domain": "google.al"
+    },
+    {
+      "country": "Algeria ",
+      "search_domain": "google.dz"
+    },
+    {
+      "country": "American Samoa ",
+      "search_domain": "google.as"
+    },
+    {
+      "country": "Andorra ",
+      "search_domain": "google.ad"
+    },
+    {
+      "country": "Angola ",
+      "search_domain": "google.co.ao"
+    },
+    {
+      "country": "Anguilla ",
+      "search_domain": "google.com.ai"
+    },
+    {
+      "country": "Antigua and Barbuda ",
+      "search_domain": "google.com.ag"
+    },
+    {
+      "country": "Argentina ",
+      "search_domain": "google.com.ar"
+    },
+    {
+      "country": "Armenia ",
+      "search_domain": "google.am"
+    },
+    {
+      "country": "Ascension Island ",
+      "search_domain": "google.ac"
+    },
+    {
+      "country": "Australia ",
+      "search_domain": "google.com.au"
+    },
+    {
+      "country": "Austria ",
+      "search_domain": "google.at"
+    },
+    {
+      "country": "Azerbaijan ",
+      "search_domain": "google.az"
+    },
+    {
+      "country": "Bahamas ",
+      "search_domain": "google.bs"
+    },
+    {
+      "country": "Bahrain ",
+      "search_domain": "google.com.bh"
+    },
+    {
+      "country": "Bangladesh ",
+      "search_domain": "google.com.bd"
+    },
+    {
+      "country": "Belarus ",
+      "search_domain": "google.by"
+    },
+    {
+      "country": "Belgium ",
+      "search_domain": "google.be"
+    },
+    {
+      "country": "Belize ",
+      "search_domain": "google.com.bz"
+    },
+    {
+      "country": "Benin ",
+      "search_domain": "google.bj"
+    },
+    {
+      "country": "Bhutan ",
+      "search_domain": "google.bt"
+    },
+    {
+      "country": "Bolivia ",
+      "search_domain": "google.com.bo"
+    },
+    {
+      "country": "Bosnia Herzegovina ",
+      "search_domain": "google.ba"
+    },
+    {
+      "country": "Botswana ",
+      "search_domain": "google.co.bw"
+    },
+    {
+      "country": "Brasil ",
+      "search_domain": "google.com.br"
+    },
+    {
+      "country": "British Virgin Islands ",
+      "search_domain": "google.vg"
+    },
+    {
+      "country": "Brunei ",
+      "search_domain": "google.com.bn"
+    },
+    {
+      "country": "Bulgaria ",
+      "search_domain": "google.bg"
+    },
+    {
+      "country": "Burkina Faso ",
+      "search_domain": "google.bf"
+    },
+    {
+      "country": "Burma ",
+      "search_domain": "google.com.mm"
+    },
+    {
+      "country": "Burundi ",
+      "search_domain": "google.bi"
+    },
+    {
+      "country": "Cambodia ",
+      "search_domain": "google.com.kh"
+    },
+    {
+      "country": "Cameroon ",
+      "search_domain": "google.cm"
+    },
+    {
+      "country": "Canada ",
+      "search_domain": "google.ca"
+    },
+    {
+      "country": "Cape Verde ",
+      "search_domain": "google.cv"
+    },
+    {
+      "country": "Catalan Countries ",
+      "search_domain": "google.cat"
+    },
+    {
+      "country": "Central African Republic ",
+      "search_domain": "google.cf"
+    },
+    {
+      "country": "Chad ",
+      "search_domain": "google.td"
+    },
+    {
+      "country": "Chile ",
+      "search_domain": "google.cl"
+    },
+    {
+      "country": "Colombia ",
+      "search_domain": "google.com.co"
+    },
+    {
+      "country": "Cook Islands ",
+      "search_domain": "google.co.ck"
+    },
+    {
+      "country": "Costa Rica ",
+      "search_domain": "google.co.cr"
+    },
+    {
+      "country": "Croatia ",
+      "search_domain": "google.hr"
+    },
+    {
+      "country": "Cuba ",
+      "search_domain": "google.com.cu"
+    },
+    {
+      "country": "Cyprus ",
+      "search_domain": "google.com.cy"
+    },
+    {
+      "country": "Czech ",
+      "search_domain": "google.cz"
+    },
+    {
+      "country": "Democratic Republic of the Congo ",
+      "search_domain": "google.cd"
+    },
+    {
+      "country": "Denmark ",
+      "search_domain": "google.dk"
+    },
+    {
+      "country": "Djibouti ",
+      "search_domain": "google.dj"
+    },
+    {
+      "country": "Dominica ",
+      "search_domain": "google.dm"
+    },
+    {
+      "country": "Dominican Republic ",
+      "search_domain": "google.com.do"
+    },
+    {
+      "country": "Ecuador ",
+      "search_domain": "google.com.ec"
+    },
+    {
+      "country": "Egypt ",
+      "search_domain": "google.com.eg"
+    },
+    {
+      "country": "El Salvador ",
+      "search_domain": "google.com.sv"
+    },
+    {
+      "country": "Estonia ",
+      "search_domain": "google.ee"
+    },
+    {
+      "country": "Ethiopia ",
+      "search_domain": "google.com.et"
+    },
+    {
+      "country": "Federated States of Micronesia ",
+      "search_domain": "google.fm"
+    },
+    {
+      "country": "Fiji ",
+      "search_domain": "google.com.fj"
+    },
+    {
+      "country": "Finland ",
+      "search_domain": "google.fi"
+    },
+    {
+      "country": "France ",
+      "search_domain": "google.fr"
+    },
+    {
+      "country": "Gabon ",
+      "search_domain": "google.ga"
+    },
+    {
+      "country": "Gambia ",
+      "search_domain": "google.gm"
+    },
+    {
+      "country": "Georgia ",
+      "search_domain": "google.ge"
+    },
+    {
+      "country": "Germany ",
+      "search_domain": "google.de"
+    },
+    {
+      "country": "Ghana ",
+      "search_domain": "google.com.gh"
+    },
+    {
+      "country": "Gibraltar ",
+      "search_domain": "google.com.gi"
+    },
+    {
+      "country": "Greece ",
+      "search_domain": "google.gr"
+    },
+    {
+      "country": "Greenland ",
+      "search_domain": "google.gl"
+    },
+    {
+      "country": "Guadeloupe ",
+      "search_domain": "google.gp"
+    },
+    {
+      "country": "Guatemala ",
+      "search_domain": "google.com.gt"
+    },
+    {
+      "country": "Guernsey ",
+      "search_domain": "google.gg"
+    },
+    {
+      "country": "Guyana ",
+      "search_domain": "google.gy"
+    },
+    {
+      "country": "Haiti ",
+      "search_domain": "google.ht"
+    },
+    {
+      "country": "Honduras ",
+      "search_domain": "google.hn"
+    },
+    {
+      "country": "Hong Kong ",
+      "search_domain": "google.com.hk"
+    },
+    {
+      "country": "Hungary ",
+      "search_domain": "google.hu"
+    },
+    {
+      "country": "Iceland ",
+      "search_domain": "google.is"
+    },
+    {
+      "country": "India ",
+      "search_domain": "google.co.in"
+    },
+    {
+      "country": "Indonesia ",
+      "search_domain": "google.co.id"
+    },
+    {
+      "country": "Iraq ",
+      "search_domain": "google.iq"
+    },
+    {
+      "country": "Ireland ",
+      "search_domain": "google.ie"
+    },
+    {
+      "country": "Isle of Man ",
+      "search_domain": "google.im"
+    },
+    {
+      "country": "Israel ",
+      "search_domain": "google.co.il"
+    },
+    {
+      "country": "Italia ",
+      "search_domain": "google.it"
+    },
+    {
+      "country": "Ivory Coast ",
+      "search_domain": "google.ci"
+    },
+    {
+      "country": "Jamaica ",
+      "search_domain": "google.com.jm"
+    },
+    {
+      "country": "Japan ",
+      "search_domain": "google.co.jp"
+    },
+    {
+      "country": "Jersey ",
+      "search_domain": "google.je"
+    },
+    {
+      "country": "Jordan ",
+      "search_domain": "google.jo"
+    },
+    {
+      "country": "Kazakhstan ",
+      "search_domain": "google.kz"
+    },
+    {
+      "country": "Kenya ",
+      "search_domain": "google.co.ke"
+    },
+    {
+      "country": "Kiribati ",
+      "search_domain": "google.ki"
+    },
+    {
+      "country": "Kuwait ",
+      "search_domain": "google.com.kw"
+    },
+    {
+      "country": "Kyrgyzstan ",
+      "search_domain": "google.kg"
+    },
+    {
+      "country": "Laos ",
+      "search_domain": "google.la"
+    },
+    {
+      "country": "Latvia ",
+      "search_domain": "google.lv"
+    },
+    {
+      "country": "Lebanon ",
+      "search_domain": "google.com.lb"
+    },
+    {
+      "country": "Lesotho ",
+      "search_domain": "google.co.ls"
+    },
+    {
+      "country": "Libya ",
+      "search_domain": "google.com.ly"
+    },
+    {
+      "country": "Liechtenstein ",
+      "search_domain": "google.li"
+    },
+    {
+      "country": "Lithuania ",
+      "search_domain": "google.lt"
+    },
+    {
+      "country": "Luxembourg ",
+      "search_domain": "google.lu"
+    },
+    {
+      "country": "Macedonia ",
+      "search_domain": "google.mk"
+    },
+    {
+      "country": "Madagascar ",
+      "search_domain": "google.mg"
+    },
+    {
+      "country": "Malawi ",
+      "search_domain": "google.mw"
+    },
+    {
+      "country": "Malaysia ",
+      "search_domain": "google.com.my"
+    },
+    {
+      "country": "Maldives ",
+      "search_domain": "google.mv"
+    },
+    {
+      "country": "Mali ",
+      "search_domain": "google.ml"
+    },
+    {
+      "country": "Malta ",
+      "search_domain": "google.com.mt"
+    },
+    {
+      "country": "Mauritius ",
+      "search_domain": "google.mu"
+    },
+    {
+      "country": "Mexico ",
+      "search_domain": "google.com.mx"
+    },
+    {
+      "country": "Moldova ",
+      "search_domain": "google.md"
+    },
+    {
+      "country": "Mongolia ",
+      "search_domain": "google.mn"
+    },
+    {
+      "country": "Montenegro ",
+      "search_domain": "google.me"
+    },
+    {
+      "country": "Montserrat ",
+      "search_domain": "google.ms"
+    },
+    {
+      "country": "Morocco ",
+      "search_domain": "google.co.ma"
+    },
+    {
+      "country": "Mozambique ",
+      "search_domain": "google.co.mz"
+    },
+    {
+      "country": "Namibia ",
+      "search_domain": "google.com.na"
+    },
+    {
+      "country": "Nauru ",
+      "search_domain": "google.nr"
+    },
+    {
+      "country": "Nepal ",
+      "search_domain": "google.com.np"
+    },
+    {
+      "country": "Netherlands ",
+      "search_domain": "google.nl"
+    },
+    {
+      "country": "New Zealand ",
+      "search_domain": "google.co.nz"
+    },
+    {
+      "country": "Nicaragua ",
+      "search_domain": "google.com.ni"
+    },
+    {
+      "country": "Niger ",
+      "search_domain": "google.ne"
+    },
+    {
+      "country": "Nigeria ",
+      "search_domain": "google.com.ng"
+    },
+    {
+      "country": "Niue ",
+      "search_domain": "google.nu"
+    },
+    {
+      "country": "Norfolk Island ",
+      "search_domain": "google.com.nf"
+    },
+    {
+      "country": "Norway ",
+      "search_domain": "google.no"
+    },
+    {
+      "country": "Oman ",
+      "search_domain": "google.com.om"
+    },
+    {
+      "country": "Pakistan ",
+      "search_domain": "google.com.pk"
+    },
+    {
+      "country": "Palestine ",
+      "search_domain": "google.ps"
+    },
+    {
+      "country": "Panama ",
+      "search_domain": "google.com.pa"
+    },
+    {
+      "country": "Papua New Guinea ",
+      "search_domain": "google.com.pg"
+    },
+    {
+      "country": "Paraguay ",
+      "search_domain": "google.com.py"
+    },
+    {
+      "country": "Peru ",
+      "search_domain": "google.com.pe"
+    },
+    {
+      "country": "Philippines ",
+      "search_domain": "google.com.ph"
+    },
+    {
+      "country": "Pitcairn Islands ",
+      "search_domain": "google.pn"
+    },
+    {
+      "country": "Poland ",
+      "search_domain": "google.pl"
+    },
+    {
+      "country": "Portugal ",
+      "search_domain": "google.pt"
+    },
+    {
+      "country": "Puerto Rico ",
+      "search_domain": "google.com.pr"
+    },
+    {
+      "country": "Qatar ",
+      "search_domain": "google.com.qa"
+    },
+    {
+      "country": "Republic of the Congo ",
+      "search_domain": "google.cg"
+    },
+    {
+      "country": "Romania ",
+      "search_domain": "google.ro"
+    },
+    {
+      "country": "Russia ",
+      "search_domain": "google.ru"
+    },
+    {
+      "country": "Rwanda ",
+      "search_domain": "google.rw"
+    },
+    {
+      "country": "Saint Helena",
+      "search_domain": "google.sh"
+    },
+    {
+      "country": "Saint Vincent and the Grenadines ",
+      "search_domain": "google.com.vc"
+    },
+    {
+      "country": "Samoa ",
+      "search_domain": "google.ws"
+    },
+    {
+      "country": "San Marino ",
+      "search_domain": "google.sm"
+    },
+    {
+      "country": "Saudi Arabia ",
+      "search_domain": "google.com.sa"
+    },
+    {
+      "country": "Senegal ",
+      "search_domain": "google.sn"
+    },
+    {
+      "country": "Serbia ",
+      "search_domain": "google.rs"
+    },
+    {
+      "country": "Seychelles ",
+      "search_domain": "google.sc"
+    },
+    {
+      "country": "Sierra Leone ",
+      "search_domain": "google.com.sl"
+    },
+    {
+      "country": "Singapore ",
+      "search_domain": "google.com.sg"
+    },
+    {
+      "country": "Slovak ",
+      "search_domain": "google.sk"
+    },
+    {
+      "country": "Slovenia ",
+      "search_domain": "google.si"
+    },
+    {
+      "country": "Solomon Islands ",
+      "search_domain": "google.com.sb"
+    },
+    {
+      "country": "Somalia ",
+      "search_domain": "google.so"
+    },
+    {
+      "country": "South Africa ",
+      "search_domain": "google.co.za"
+    },
+    {
+      "country": "South Korea ",
+      "search_domain": "google.co.kr"
+    },
+    {
+      "country": "Spain ",
+      "search_domain": "google.es"
+    },
+    {
+      "country": "Sri Lanka ",
+      "search_domain": "google.lk"
+    },
+    {
+      "country": "Sweden ",
+      "search_domain": "google.se"
+    },
+    {
+      "country": "Switzerland ",
+      "search_domain": "google.ch"
+    },
+    {
+      "country": "São Tomé and Príncipe ",
+      "search_domain": "google.st"
+    },
+    {
+      "country": "Taiwan ",
+      "search_domain": "google.com.tw"
+    },
+    {
+      "country": "Tajikistan ",
+      "search_domain": "google.com.tj"
+    },
+    {
+      "country": "Tanzania ",
+      "search_domain": "google.co.tz"
+    },
+    {
+      "country": "Thailand ",
+      "search_domain": "google.co.th"
+    },
+    {
+      "country": "Timor-Leste ",
+      "search_domain": "google.tl"
+    },
+    {
+      "country": "Togo ",
+      "search_domain": "google.tg"
+    },
+    {
+      "country": "Tokelau ",
+      "search_domain": "google.tk"
+    },
+    {
+      "country": "Tonga ",
+      "search_domain": "google.to"
+    },
+    {
+      "country": "Trinidad and Tobago ",
+      "search_domain": "google.tt"
+    },
+    {
+      "country": "Tunisia ",
+      "search_domain": "google.tn"
+    },
+    {
+      "country": "Turkey ",
+      "search_domain": "google.com.tr"
+    },
+    {
+      "country": "Turkmenistan ",
+      "search_domain": "google.tm"
+    },
+    {
+      "country": "Uganda ",
+      "search_domain": "google.co.ug"
+    },
+    {
+      "country": "Ukraine ",
+      "search_domain": "google.com.ua"
+    },
+    {
+      "country": "UAE ",
+      "search_domain": "google.ae"
+    },
+    {
+      "country": "United Kingdom ",
+      "search_domain": "google.co.uk"
+    },
+    {
+      "country": "Uruguay ",
+      "search_domain": "google.com.uy"
+    },
+    {
+      "country": "Uzbekistan ",
+      "search_domain": "google.co.uz"
+    },
+    {
+      "country": "Vanuatu ",
+      "search_domain": "google.vu"
+    },
+    {
+      "country": "Venezuela ",
+      "search_domain": "google.co.ve"
+    },
+    {
+      "country": "VietNam ",
+      "search_domain": "google.com.vn"
+    },
+    {
+      "country": "Virgin Islands ",
+      "search_domain": "google.co.vi"
+    },
+    {
+      "country": "Zambia ",
+      "search_domain": "google.co.zm"
+    },
+    {
+      "country": "Zimbabwe ",
+      "search_domain": "google.co.zw"
+    }
+  ]
+}

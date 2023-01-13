@@ -1,0 +1,42 @@
+<table class = 'table table-hover'>
+	<thead>
+		<tr>
+			<th>project name</th>
+			<th>Topic name</th>
+			<th>Region</th>
+			<th>Keyword</th>
+			<th>Last update</th>
+			<th>Action</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for project in projects %}
+			{% if project.topicmodel_set.all %}
+				{% for topic in project.topicmodel_set.all %}
+					<tr>
+						<td>
+							<a href="/admin/app_serp/projectmodel/{{project.pk}}/change/">{{project.project_name}}</a>
+						</td>
+						<td>
+							<a href="/admin/app_serp/topicmodel/{{topic.pk}}/change/">{{topic.topic_name}}</a>
+						</td>
+						<td>{{project.get_country_display}}</td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+				{% endfor %}
+			{% else %}
+				<tr>
+					<td><a href="/admin/app_serp/projectmodel/{{project.pk}}/change/">{{project.project_name}}</a></td>
+					<td></td>
+					<td>{{project.get_country_display}}</td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			{% endif %}
+
+		{% endfor%}
+	</tbody>
+</table>
