@@ -27,7 +27,7 @@ class ProjectListView(View):
 
 class ProjectView(View):
 	def get(self, request):
-		return render(request, 'app_serp/project_view.html')
+		return render(request, 'app_serp/project.html')
 
 class ProjectAddView(View):
 	def get(self, request):
@@ -35,11 +35,11 @@ class ProjectAddView(View):
 
 class DashboardView(View):
 	def get(self, request):
-		return render(request, 'app_serp/dashboard_view.html')
+		return render(request, 'app_serp/dashboard.html')
 
 class TopicView(View):
 	def get(self, request):
-		return render(request, 'app_serp/topic_view.html')
+		return render(request, 'app_serp/topic.html')
 
 
 
